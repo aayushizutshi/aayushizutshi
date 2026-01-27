@@ -37,10 +37,6 @@ Hi, I'm Aayushi! > I am a Cybersecurity enthusiast with a strong foundation in C
 ![](https://nirzak-streak-stats.vercel.app/?user=aayushizutshi&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushizutshi&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🕹️ Take a Break!
-| Play Pacman | How it Works |
-| :--- | :--- |
-| [![Play Pacman](https://img.shields.io/badge/PLAY-PACMAN-yellow?style=for-the-badge&logo=retroarch&logoColor=black)](https://github.com/masonicGit/pacman) | This game is hosted on GitHub Pages. Click the button to start! |
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aayushizutshi&theme=rose&no-frame=false&no-bg=true&margin-w=4)
 
