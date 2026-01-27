@@ -33,6 +33,7 @@ Hi, I'm Aayushi! > I am a Cybersecurity enthusiast with a strong foundation in C
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=aayushizutshi&theme=rose&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=aayushizutshi&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushizutshi&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
