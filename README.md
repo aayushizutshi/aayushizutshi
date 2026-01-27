@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi, I'm Aayushi! > I am a Cybersecurity enthusiast with a strong foundation in Computer Science and Engineering. My expertise lies in bridging the gap between secure development and proactive monitoring. I have hands-on experience in Security Monitoring and Incident Triage using Splunk , alongside a background as a Technical Instructor in Networking and DBMS.<br><br>🔭 Currently focusing on: Enhancing my SOC Analyst skills and threat hunting. <br>🛡️ Certifications: ISO/IEC 27001:2022 Associate, Palo Alto Intro to Cyber, and Cisco Networking Basics.<br> ⚡ Core Strength: Analyzing authentication logs and securing backend systems.
 
 
@@ -40,7 +40,7 @@ Hi, I'm Aayushi! > I am a Cybersecurity enthusiast with a strong foundation in C
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aayushizutshi&theme=rose&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+###  Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aayushizutshi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
