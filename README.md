@@ -37,7 +37,7 @@ Hi, I'm Aayushi! > I am a Cybersecurity enthusiast with a strong foundation in C
 ![](https://nirzak-streak-stats.vercel.app/?user=aayushizutshi&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushizutshi&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/aayushizutshi/aayushizutshi/blob/output/github-contribution-grid-snake.svg)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aayushizutshi&theme=rose&no-frame=false&no-bg=true&margin-w=4)
 
