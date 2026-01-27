@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Aayushi! > I am a Cybersecurity enthusiast with a strong foundation in Computer Science and Engineering. My expertise lies in bridging the gap between secure development and proactive monitoring. I have hands-on experience in Security Monitoring and Incident Triage using Splunk , alongside a background as a Technical Instructor in Networking and DBMS.<br><br>🔭 Currently focusing on: Enhancing my SOC Analyst skills and threat hunting. 🛡️ Certifications: ISO/IEC 27001:2022 Associate, Palo Alto Intro to Cyber, and Cisco Networking Basics. ⚡ Core Strength: Analyzing authentication logs and securing backend systems.
+Hi, I'm Aayushi! > I am a Cybersecurity enthusiast with a strong foundation in Computer Science and Engineering. My expertise lies in bridging the gap between secure development and proactive monitoring. I have hands-on experience in Security Monitoring and Incident Triage using Splunk , alongside a background as a Technical Instructor in Networking and DBMS.<br><br>🔭 Currently focusing on: Enhancing my SOC Analyst skills and threat hunting. <br>🛡️ Certifications: ISO/IEC 27001:2022 Associate, Palo Alto Intro to Cyber, and Cisco Networking Basics.<br> ⚡ Core Strength: Analyzing authentication logs and securing backend systems.
 
 
 ## 🌐 Socials:
